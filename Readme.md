@@ -182,7 +182,7 @@ Financial guidance requires deterministic, factual outputs. A temperature of 0 p
 ## 👤 Author
 
 **Abhiya Gupta**  
-Mini Project 2 — Financial Intelligence RAG Assistant  
+Financial Intelligence RAG Assistant  
 
 ---
 
