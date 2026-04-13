@@ -72,9 +72,9 @@ User Question
 ## 📂 Project Structure
 
 ```
-Mini_Project_2_Financial_Intelligence_agent
+Financial_Intelligence_agent
 │
-├── Mini_Project_2_Build_a_Financial_Intelligence_RAG_Assistant_AbhiyaGupta.ipynb           # Main project notebook
+├── Financial_Intelligence_RAG_Assistant_AbhiyaGupta.ipynb           # Main project notebook
 │
 ├── capstone_financial_documents/          # 30 financial guidance documents
 │   ├── doc_01_credit_scores.txt
